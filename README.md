@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Name : Maoxin Yang Language : Chinese,English College : GDUT Contact : 1226532977@qq.com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moxiy/moxiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
